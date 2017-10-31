@@ -1,0 +1,65 @@
+input{
+	width: 100%;
+    border: 0;
+    outline: 0;
+    font: 1.2em "黑体";
+    color: #333;
+    background: #fff;
+   
+    border-radius: 5px;
+    padding: 6% 5%;
+}
+.form-confirm{
+    margin:10px 0;
+}
+img{
+    display: block;
+    margin: 0 0 20px;
+    overflow: hidden;
+    float: left;
+    width: 113px;
+    height: 46px;
+    line-height: 42px;
+}
+.change{
+    margin-left: 20px;
+    font-size: 0.5em;
+    color: #45e3be;
+    text-decoration: none;
+}
+em{
+    color: #9bffd3;
+    font-style: normal;
+    line-height: 42px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.psd{
+    position: relative;
+}
+.form-psd{
+    margin: 10px 0;
+}
+.form-msg{
+    margin-bottom: 10px ;
+}
+.btn-log{
+    display: block;
+    width: 90%;
+    font-size: 1.4em;
+    color: #45e3be;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #45e3be;
+   
+    border-radius: 5px;
+    margin: 8px auto;
+    padding: 5%;
+}
+.regist_text>a {
+    color: #9bffd3;
+    text-decoration: underline;
+}
+.eye{
+    top:49%;
+}

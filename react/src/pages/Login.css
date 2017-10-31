@@ -1,0 +1,98 @@
+#content{
+	margin-bottom: 45px;
+    padding: 0 15px;
+}
+.logininfo{
+	    margin: 10px 0;
+}
+.nologin{
+	height: 111px;
+	text-align: center;
+    width: 125px;
+    margin: 0 auto;
+}
+.haslogin{
+	position: relative;
+    width: 100%;
+    top: 10px;
+    height: 111px;
+}
+.jianli{
+    position: absolute;
+    color: #00b38a;
+    font-size: 1.4rem;
+    right: 0;
+}
+.headcon{
+    height: 81px;
+    width: 81px;
+    margin: 0 auto;
+   
+    border-radius: 40.5px;
+   
+    background-clip: padding-box;
+    overflow: hidden;
+    background-color: #f6f6f6;
+}
+.name{
+    text-align: center;
+}
+.headpic{
+    width: 72px;
+    height: 72px;
+    border-radius: 36px;
+    margin: 4px 0 0 5px;
+    background-clip: padding-box;
+}
+.outlogin{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #1fc8a1;
+    color: #fff;
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+.loginbut{
+	font-size: 1.4rem;
+    color: #fff;
+    display: block;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1fc8a1;
+    position: relative;
+    top: 33px;
+}
+.buttons{
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.button{
+	
+	display: block;
+    width: 48%;
+    height: 86px;
+    line-height: 86px;
+    background-color: #1fc8a1;
+    text-align: center;
+    color: #fff;
+    font-size: 1.6rem;
+    margin-top: 10px;
+    position: relative;
+}
+.deliver{
+	float: left;
+}
+.interview{
+	float: right;
+}
+.invitation{
+	float: left;
+}
+.collect{
+	float: right;
+}

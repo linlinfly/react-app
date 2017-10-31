@@ -1,0 +1,89 @@
+html,body{
+	height: 100%;
+}
+#root{
+	height: inherit;
+	
+}
+.radial{
+	height: inherit;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+}
+.form-group{
+	width: 90%;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+input{
+	width: 100%;
+    border: 0;
+    outline: 0;
+    font: 1.2em "黑体";
+    color: #333;
+    background: #fff;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    padding: 6% 5%;
+}
+.form-usename{
+	border-top-left-radius: 5px!important;
+	border-top-right-radius: 5px!important;
+	border-bottom: 1px solid #e0e0e0;
+}
+.psd{
+    position: relative;
+}
+.form-psd{
+	border-bottom-left-radius: 5px!important;
+    border-bottom-right-radius: 5px!important;
+}
+.eye{
+	width: 20px;
+    height: 13px;
+    background: url(http://img.lagou.com/passport/static/mobile/modules/common/img/psweye_930f545.png) 0 0 no-repeat;
+    background-size: 20px 30px;
+    position: absolute;
+    top:15%;
+    right: 10%;
+    transition: transform .3s linear 0s;
+}
+.openeye{
+	background: url(http://img.lagou.com/passport/static/mobile/modules/common/img/psweye_930f545.png) 0 -16px no-repeat;
+    background-size: 20px 30px;
+    transform: scale(1.1,1.1);
+}
+.btn-submit{
+	display: block;
+    width: 90%;
+    font-size: 1.4em;
+    color: #fff;
+    text-align: center;
+    background: #0ac599;
+   
+    box-shadow: 0 2px 0 #008765;
+    border: none;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 5%;
+}
+.regist_text{
+	color: #45e3be;
+    font-size: 0.6em;
+    line-height: 1.3;
+    margin-left: 5%;
+
+}
+.btn-regist{
+	display: block;
+    width: 90%;
+    font-size: 1.4em;
+    color: #45e3be;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #45e3be;
+   
+    border-radius: 5px;
+    margin: 8px auto;
+    padding: 5%;
+}
